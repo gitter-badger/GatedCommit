@@ -1,0 +1,1 @@
+[![Build Status](https://travis-ci.org/shardool/EnvironmentSpecificTasks.svg)](https://travis-ci.org/shardool/EnvironmentSpecificTasks)

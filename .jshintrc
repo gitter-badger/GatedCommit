@@ -1,0 +1,10 @@
+{
+    "strict": true,
+    "unused": true,
+    "undef": true,
+    "predef": ["angular", "require", "document", "window", "process","module"],
+    "quotmark": true,
+    "latedef": true,
+    "curly": true,
+    "trailing": true
+}
