@@ -4,8 +4,8 @@ node_js:
   - "0.10"
   - "0.8"
   - "iojs"
-before_install:
-  - "npm install -g npm@1.4.x"
+install:
+- "npm install"
 script:
   - "npm run lint"
 matrix:
