@@ -8,7 +8,6 @@ before_install:
   - "npm install -g npm@1.4.x"
 script:
   - "npm run lint"
-  - "npm run test"
   - "npm run coverage"
 matrix:
   fast_finish: true
