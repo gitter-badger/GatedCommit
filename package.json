@@ -19,7 +19,7 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "gulp-rename": "^1.2.2",
+    "gulp-rename": "1.2.2",
     "chai": "^3.3.0",
     "jshint-stylish": "^2.0.1",
     "gulp-concat": "^2.6.0",
