@@ -3,10 +3,14 @@ node_js:
   - "0.12"
   - "0.10"
   - "iojs"
+before_script:
+- "npm install bower -g"
 script:
 - "gulp coverage"
 - "gulp bundle"
 - "gulp inject"
+- "cd source"
+- "bower install"
 after_script:
   - "npm install coveralls@2.11.x && cat coverage/lcov.info | coveralls"
 matrix:
