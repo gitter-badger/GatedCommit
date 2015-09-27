@@ -4,4 +4,6 @@ node_js:
   - "0.10"
   - "iojs"
 script:
-  - "gulp coverage"
+- "gulp coverage"
+- "gulp bundle"
+- "gulp inject"
