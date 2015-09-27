@@ -3,3 +3,6 @@
 [![Build Status](https://travis-ci.org/shardool/GatedCommit.svg?branch=dev)](https://travis-ci.org/shardool/GatedCommit)[![Coverage Status](https://coveralls.io/repos/shardool/GatedCommit/badge.svg?branch=master&service=github)](https://coveralls.io/github/shardool/GatedCommit?branch=master)
  </h1>
  
+
+
+[![Join the chat at https://gitter.im/shardool/GatedCommit](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/shardool/GatedCommit?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
