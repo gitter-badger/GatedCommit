@@ -4,9 +4,3 @@ node_js:
   - "0.10"
   - "0.8"
   - "iojs"
-install:
-- "npm install"
-script:
-  - "npm run lint"
-matrix:
-  fast_finish: true
