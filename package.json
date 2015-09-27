@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "gulp test && exit(0)",
+    "test": "gulp test",
     "lint": "gulp lint",
     "coverage": "gulp testCoverage"
   },

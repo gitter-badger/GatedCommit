@@ -8,7 +8,7 @@ describe("TEST1", function () {
         p2 = new Person("Bob3"),
         p3 = new Person("Bob");
     it("says hi", function () {
-        p1.greet(p2).should.equal("Hello Bob3");
+        p1.greet(p2).should.equal("HelloBob3");
     });
     it("says hi again", function () {
         p1.greet(p3).should.equal("Hi Bob");
